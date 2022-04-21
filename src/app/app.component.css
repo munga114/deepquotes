@@ -1,0 +1,16 @@
+.container-fluid{
+    background-color:#021d1e;
+    /* background-image: url(../assets/quote-6587909_1920.jpg); */
+    background-repeat:repeat;
+    height: 150vh;
+    
+}
+@media only screen and (max-width: 765px) {
+    .container-fluid{
+        background-color:#021d1e;
+        /* background-image: url(../assets/quote-6587909_1920.jpg); */
+        background-repeat:repeat;
+        height: 300vh;
+        
+    }
+  }

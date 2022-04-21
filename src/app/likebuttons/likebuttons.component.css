@@ -1,0 +1,13 @@
+
+.main-row{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.votes1{
+    margin: 0 20px;
+
+}
+@media only screen and (max-width: 765px){
+    
+}
