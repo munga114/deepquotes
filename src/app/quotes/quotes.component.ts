@@ -12,7 +12,7 @@ export class QuotesComponent implements OnInit {
   quotes:Quote[]=[
     new Quote(1,'Mungai Mbugua','If you want to live a happy life, tie it to a goal not to people or things','Albert Einstein',0,0,new Date()),
     new Quote(2,'Mungai Mbugua','All art is a kind of confession','James Baldwin',9,0,new Date()),
-    new Quote(3,'Mungai Mbugua','Take a break from dating when exhausted','Elizabeth Olsen',0,0,new Date())
+    new Quote(3,'Mungai Mbugua','Live as if you were to die tomorrow, learn as if you were to live forever','Mahatma Gandhi',0,0,new Date())
   ]
   addNewQuote(quotes:any){
     let quoteLength = this.quotes.length;
