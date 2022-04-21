@@ -41,10 +41,6 @@ Copyright (c) 2022 **Mungai Mbugua**
 
 
 ## Authors Info
-Linked - Caleb Kabaya(hhttps://www.linkedin.com/in/caleb-kabaya-167676195/)
 
-Email - (calebkabaya7@gmail.com)
-
-[Go Back to the top](#portfolio)
 
 
