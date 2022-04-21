@@ -20,13 +20,12 @@
         </div>
         <div class="form-group">
   
-            <label for="author">Publisher
-            </label>
+            <label for="author">Publisher</label>
             <input type="text" required class="form-control" id="author"[(ngModel)]="addNewQuote.author" name="author" #author="ngModel">
             Display {{addNewQuote.author}}
             <div [hidden]="author.valid || author.pristine" class="alert alert-danger">
                 <p>Please enter your name</p>
-              </div>
+            </div>
   
         </div>
         <div class="form-group mt-3">
