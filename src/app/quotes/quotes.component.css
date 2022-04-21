@@ -11,9 +11,7 @@
 .btn{
     margin-top: 15px;
 }
-/* .btn-item{
-    justify-content: space-around;
-} */
+
 #main{
     display: flex;
     justify-content: space-around;
