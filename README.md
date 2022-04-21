@@ -1,30 +1,24 @@
-# QuotesApp
+## QuotesApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
-##### By Caleb Mutuku
-## Table of Content
-
-+ [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [Technology Used](#technology-used)
-+ [Reference](#reference)
-+ [Licence](#licence)
-+ [Authors Info](#author-Info)
+## By Mungai Mbugua
 
 ## Description
-<p>An application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational.</p>
+An application where users can create quotes and have those quotes voted on whether they are terrible or are inspirational.
 
 ## Installation
+- Clone Repository on Local Machine
+- cd into Directory, cd quotes
+- Run the application on the browser
+## Requirements
 
-### Requirements
+* Any mobile device that has access to the internet or a computer
 
-* Either a computer,phone,tablet or an Ipad
+* Access to the Internet
 
-* An access to the Internet
+## Link to live demo
 
-### Installation Process
 
-[Go Back to the top](#portfolio)
 ## Technology Used
 * Angular-To develop the single-page application
 
@@ -40,14 +34,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Reference
 * Materialize CSS
 
-[Go Back to the top](#portfolio)
 
 ## Licence
+This project is licensed by [MIT license] (LICENSE) and its rights are resevered to the author
+Copyright (c) 2022 **Mungai Mbugua**
 
-[MIT](LICENSE)
-
-
-[Go Back to the top](#portfolio)
 
 ## Authors Info
 Linked - Caleb Kabaya(hhttps://www.linkedin.com/in/caleb-kabaya-167676195/)
